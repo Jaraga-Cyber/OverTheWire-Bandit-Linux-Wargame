@@ -11,7 +11,7 @@ OverTheWire Bandit is a Linux-based wargame designed for beginners to learn secu
 ---
 
 ## Progress
-Completed: **27+ levels**
+Completed: **33 levels**
 
 | Level Range | Key Skills Practiced |
 |---|---|
@@ -42,6 +42,18 @@ Completed: **27+ levels**
 ---
 
 ## Notable Challenges
+
+### Levels 0–5 – Linux Basics & File Navigation
+- Connected to remote server via SSH for the first time
+- Read files using cat, including hidden files and files with special characters
+- Navigated directories and found files with spaces in filenames using quotes
+- Located files by size and type using the find command
+
+### Levels 6–12 – File Permissions & Data Extraction
+- Found files owned by specific users/groups using find with permission flags
+- Used grep to search for passwords within files
+- Extracted human-readable strings from binary files using the strings command
+- Decoded data using Base64 and identified file types using the file command
 
 ### Level 13-14 — SSH Private Key
 - Retrieved an RSA private key instead of a password
