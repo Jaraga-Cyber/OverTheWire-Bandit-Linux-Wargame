@@ -52,9 +52,10 @@ Completed: **27+ levels**
 - Password was a full RSA PRIVATE KEY block
 - Required understanding of SSH key-based authentication
 
-### Level 26 — SSH Key Only (No Password)
-- Level 26 had no password — authentication via SSH key only
-- Demonstrated real-world SSH key management concepts
+### Level 26 – Shell Escape via Vim
+- Shell was restricted (more pager), escaped into vim by resizing terminal
+- Used vim's :e command to read the password file
+- Demonstrated how restricted shells can be bypassed via editor exploits
 
 ### Levels 27–33 – Git & Shell Exploitation
 - Cloned git repositories and inspected commit history with git log/show
