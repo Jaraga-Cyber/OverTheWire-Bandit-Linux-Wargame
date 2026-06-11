@@ -56,6 +56,13 @@ Completed: **27+ levels**
 - Level 26 had no password — authentication via SSH key only
 - Demonstrated real-world SSH key management concepts
 
+### Levels 27–33 – Git & Shell Exploitation
+- Cloned git repositories and inspected commit history with git log/show
+- Explored hidden branches with git branch -a and git checkout
+- Retrieved secrets stored in git tags using git show
+- Pushed files to a remote repo to trigger server-side password reveal
+- Escaped an uppercase-only shell using $0 to drop into a normal shell
+
 ---
 
 ## Key Takeaways
